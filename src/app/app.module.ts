@@ -31,3 +31,6 @@ import { StripePage } from '../pages/stripe/stripe';
   ]
 })
 export class AppModule {}
+
+
+//ionic 3
