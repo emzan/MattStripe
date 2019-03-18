@@ -4,7 +4,7 @@ import { NavController, NavParams } from 'ionic-angular';
 declare var Stripe;
 
 /**
- * Generated class for the StripePage page.
+ * Generated class for the StripePage page. Work in progress
  *
  * See https://ionicframework.com/docs/components/#navigation for more info on
  * Ionic pages and navigation.
